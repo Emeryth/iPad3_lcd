@@ -1,0 +1,577 @@
+PCBNEW-LibModule-V1  24/05/2013 21:26:43
+# encoding utf-8
+Units mm
+$INDEX
+DP_connector_MC34467
+ipad3_lcd_connector
+$EndINDEX
+$MODULE DP_connector_MC34467
+Po 0 0 0 15 518AD0CF 00000000 ~~
+Li DP_connector_MC34467
+Sc 0
+AR /51826C72
+Op 0 0 0
+T0 0 0 1 1 0 0.15 N V 21 N "U2"
+T1 -0.3 1.85 1 1 0 0.15 N V 21 N "CONN_DISPLAYPORT_SINK"
+DS 5.75 2.5 5.75 -12.5 0.1 21
+DS 5.75 2.5 -10.75 2.5 0.1 21
+DS -10.75 2.5 -10.75 -12.5 0.1 21
+DS -10.75 2.5 -10.75 -12.5 0.00012 21
+DS 3 2.5 -9.5 2.5 0.00012 21
+$PAD
+Sh "22" C 2.1 2.1 0 0 0
+Dr 1.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.75 -8.45
+$EndPAD
+$PAD
+Sh "1" R 0.28 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 9 "/LANE3_N"
+Po 3 -11.05
+$EndPAD
+$PAD
+Sh "2" R 0.28 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 12 "GND"
+Po 2.5 -11.05
+$EndPAD
+$PAD
+Sh "3" R 0.28 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 10 "/LANE3_P"
+Po 2 -11.05
+$EndPAD
+$PAD
+Sh "4" R 0.28 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 11 "/LANE_2N"
+Po 1.5 -11.05
+$EndPAD
+$PAD
+Sh "5" R 0.28 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 12 "GND"
+Po 1 -11.05
+$EndPAD
+$PAD
+Sh "6" R 0.28 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 8 "/LANE2_P"
+Po 0.5 -11.05
+$EndPAD
+$PAD
+Sh "7" R 0.28 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 6 "/LANE1_N"
+Po 0 -11.05
+$EndPAD
+$PAD
+Sh "8" R 0.28 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 12 "GND"
+Po -0.5 -11.05
+$EndPAD
+$PAD
+Sh "9" R 0.28 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 7 "/LANE1_P"
+Po -1 -11.05
+$EndPAD
+$PAD
+Sh "10" R 0.28 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 4 "/LANE0_N"
+Po -1.5 -11.05
+$EndPAD
+$PAD
+Sh "11" R 0.28 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 12 "GND"
+Po -2 -11.05
+$EndPAD
+$PAD
+Sh "12" R 0.28 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 5 "/LANE0_P"
+Po -2.5 -11.05
+$EndPAD
+$PAD
+Sh "13" R 0.28 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 -11.05
+$EndPAD
+$PAD
+Sh "14" R 0.28 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.5 -11.05
+$EndPAD
+$PAD
+Sh "15" R 0.28 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "/AUX_P"
+Po -4 -11.05
+$EndPAD
+$PAD
+Sh "16" R 0.28 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 12 "GND"
+Po -4.5 -11.05
+$EndPAD
+$PAD
+Sh "17" R 0.28 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "/AUX_N"
+Po -5 -11.05
+$EndPAD
+$PAD
+Sh "18" R 0.28 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 3 "/HPD"
+Po -5.5 -11.05
+$EndPAD
+$PAD
+Sh "19" R 0.28 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 12 "GND"
+Po -6 -11.05
+$EndPAD
+$PAD
+Sh "20" R 0.28 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.5 -11.05
+$EndPAD
+$PAD
+Sh "21" C 2.1 2.1 0 0 0
+Dr 1.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.75 -8.45
+$EndPAD
+$PAD
+Sh "23" C 1.5 1.5 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.75 -1.65
+$EndPAD
+$PAD
+Sh "26" C 1.5 1.5 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.75 -1.65
+$EndPAD
+$PAD
+Sh "" C 1.4 1.4 0 0 0
+Dr 1.4 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.5 -0.8
+$EndPAD
+$EndMODULE DP_connector_MC34467
+$MODULE ipad3_lcd_connector
+Po 0 0 0 15 5176E480 00000000 ~~
+Li ipad3_lcd_connector
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1 1 0 0.15 N V 21 N "ipad3_lcd_connector"
+T1 -6.35 -2.54 1 1 0 0.15 N V 21 N "VAL**"
+$PAD
+Sh "44" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.1 -3.275
+$EndPAD
+$PAD
+Sh "46" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.5 -3.275
+$EndPAD
+$PAD
+Sh "48" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.9 -3.275
+$EndPAD
+$PAD
+Sh "42" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.7 -3.275
+$EndPAD
+$PAD
+Sh "40" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.3 -3.275
+$EndPAD
+$PAD
+Sh "38" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.9 -3.275
+$EndPAD
+$PAD
+Sh "26" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 -3.275
+$EndPAD
+$PAD
+Sh "28" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.9 -3.275
+$EndPAD
+$PAD
+Sh "30" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.3 -3.275
+$EndPAD
+$PAD
+Sh "36" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.5 -3.275
+$EndPAD
+$PAD
+Sh "34" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.1 -3.275
+$EndPAD
+$PAD
+Sh "32" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.7 -3.275
+$EndPAD
+$PAD
+Sh "8" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.9 -3.275
+$EndPAD
+$PAD
+Sh "10" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.3 -3.275
+$EndPAD
+$PAD
+Sh "12" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11.7 -3.275
+$EndPAD
+$PAD
+Sh "6" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 13.5 -3.275
+$EndPAD
+$PAD
+Sh "4" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 14.1 -3.275
+$EndPAD
+$PAD
+Sh "2" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 14.7 -3.275
+$EndPAD
+$PAD
+Sh "14" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11.1 -3.275
+$EndPAD
+$PAD
+Sh "16" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 10.5 -3.275
+$EndPAD
+$PAD
+Sh "18" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.9 -3.275
+$EndPAD
+$PAD
+Sh "24" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.1 -3.275
+$EndPAD
+$PAD
+Sh "22" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.7 -3.275
+$EndPAD
+$PAD
+Sh "20" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.3 -3.275
+$EndPAD
+$PAD
+Sh "50" R 0.3 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.3 -3.275
+$EndPAD
+$PAD
+Sh "1" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 15 -0.4
+$EndPAD
+$PAD
+Sh "3" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 14.4 -0.4
+$EndPAD
+$PAD
+Sh "5" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 13.8 -0.4
+$EndPAD
+$PAD
+Sh "7" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 13.2 -0.4
+$EndPAD
+$PAD
+Sh "9" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.6 -0.4
+$EndPAD
+$PAD
+Sh "11" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12 -0.4
+$EndPAD
+$PAD
+Sh "13" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11.4 -0.4
+$EndPAD
+$PAD
+Sh "15" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 10.8 -0.4
+$EndPAD
+$PAD
+Sh "17" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 10.2 -0.4
+$EndPAD
+$PAD
+Sh "19" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.6 -0.4
+$EndPAD
+$PAD
+Sh "21" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9 -0.4
+$EndPAD
+$PAD
+Sh "23" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.4 -0.4
+$EndPAD
+$PAD
+Sh "25" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.8 -0.4
+$EndPAD
+$PAD
+Sh "27" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.2 -0.4
+$EndPAD
+$PAD
+Sh "29" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.6 -0.4
+$EndPAD
+$PAD
+Sh "31" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 -0.4
+$EndPAD
+$PAD
+Sh "33" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.4 -0.4
+$EndPAD
+$PAD
+Sh "35" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.8 -0.4
+$EndPAD
+$PAD
+Sh "37" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.2 -0.4
+$EndPAD
+$PAD
+Sh "39" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.6 -0.4
+$EndPAD
+$PAD
+Sh "41" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 -0.4
+$EndPAD
+$PAD
+Sh "43" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.4 -0.4
+$EndPAD
+$PAD
+Sh "45" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.8 -0.4
+$EndPAD
+$PAD
+Sh "47" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.2 -0.4
+$EndPAD
+$PAD
+Sh "49" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.6 -0.4
+$EndPAD
+$PAD
+Sh "51" R 0.26 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -0.4
+$EndPAD
+$PAD
+Sh "52" R 0.4 0.85 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 15.7 -0.725
+$EndPAD
+$PAD
+Sh "53" R 0.4 0.85 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7 -0.725
+$EndPAD
+$EndMODULE ipad3_lcd_connector
+$EndLIBRARY
